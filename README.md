@@ -9,7 +9,7 @@
 
 - 👨‍💻 All my projects are available on [https://github.com/Hoodie1309](https://github.com/Hoodie1309)
 
-- 📫 How to reach me **adrian.szablowski.dev@gmail.com**
+- 📫 How to reach me **adrian.szablowski.kontakt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
