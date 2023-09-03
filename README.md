@@ -1,7 +1,7 @@
-[![MasterHead](https://raw.githubusercontent.com/Hoodie1309/hoodie1309/main/readme-img.png)]
+![MasterHead](https://raw.githubusercontent.com/Hoodie1309/hoodie1309/main/readme-img.png)
 <h1 align="center">Hello 👋, I'm Adrian</h1>
 <h3 align="center">Passionate frontend developer from Poland</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Hoodie1309/hoodie1309/main/readme-img.png"/>
+<!-- <img align="right" alt="Coding" width="400" src=""/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoodie1309&label=Profile%20views&color=0e75b6&style=flat" alt="hoodie1309" /> </p>
 
