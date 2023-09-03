@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm Adrian</h1>
 <h3 align="center">Passionate frontend developer from Poland</h3>
-(img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/Hoodie1309/hoodie1309/main/readme-img.png](https://miro.medium.com/v2/resize:fit:1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg)")
+(img align="right" alt="Coding" width="400" src="[[https://raw.githubusercontent.com/Hoodie1309/hoodie1309/main/readme-img.png](https://miro.medium.com/v2/resize:fit:1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg)](https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoodie1309&label=Profile%20views&color=0e75b6&style=flat" alt="hoodie1309" /> </p>
 
