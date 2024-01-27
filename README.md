@@ -12,7 +12,14 @@
 <h3 align="center">💻 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vsc,html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,js,ts,react,php,symfony,sql,git,supabase" />
+  </a>
+</p>
+
+<h3 align="center">Want to learn:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
 </p>
 
