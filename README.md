@@ -1,7 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/Hoodie1309/hoodie1309/main/readme-img.png)
 <h1 align="center">Hello 👋, I'm Adrian</h1>
 <h3 align="center">Junior fullstack software developer from Poland</h3>
-<!-- <img align="right" alt="Coding" width="400" src=""/> -->
 
 - 🌱 I'm currently learning **TanStack Router**
 
@@ -16,14 +15,14 @@
   </a>
 </p>
 
-<h3 align="center">Want to learn:</h3>
+<h3 align="center">:man_student: Want to learn:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">:calling: Connect with me:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
