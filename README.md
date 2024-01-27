@@ -23,9 +23,12 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
+<h3 align="center">🏆 My stats:</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianszablowski)](https://github.com/anuraghazra/github-readme-stats)
