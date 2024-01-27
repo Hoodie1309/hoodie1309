@@ -1,4 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/Hoodie1309/hoodie1309/main/readme-img.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hello 👋, I'm Adrian</h1>
 <h3 align="center">Junior fullstack software developer from Poland</h3>
 <!-- <img align="right" alt="Coding" width="400" src=""/> -->
@@ -31,4 +32,3 @@
 </p>
 
 <h3 align="center">🏆 My stats:</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
