@@ -1,15 +1,15 @@
 ![MasterHead](https://raw.githubusercontent.com/Hoodie1309/hoodie1309/main/readme-img.png)
 <h1 align="center">Hello 👋, I'm Adrian</h1>
-<h3 align="center">Passionate frontend developer from Poland</h3>
+<h3 align="center">Junior fullstack software developer from Poland</h3>
 <!-- <img align="right" alt="Coding" width="400" src=""/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoodie1309&label=Profile%20views&color=0e75b6&style=flat" alt="hoodie1309" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoodie1309" alt="hoodie1309" /></a> </p>
 
-- 🌱 I'm currently learning **React**
+- 🌱 I'm currently learning **TanStack Router**
 
-- 👨‍💻 All my projects are available on [https://github.com/Hoodie1309](https://github.com/Hoodie1309)
+- 👨‍💻 All my projects are available on [https://github.com/adrianszablowski?tab=repositories](https://github.com/adrianszablowski?tab=repositories)
 
 - 📫 How to reach me **adrian.szablowski.kontakt@gmail.com**
 
