@@ -1,5 +1,4 @@
 ![MasterHead](https://raw.githubusercontent.com/Hoodie1309/hoodie1309/main/readme-img.png)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hello 👋, I'm Adrian</h1>
 <h3 align="center">Junior fullstack software developer from Poland</h3>
 <!-- <img align="right" alt="Coding" width="400" src=""/> -->
@@ -10,7 +9,7 @@
 
 - 📫 How to reach me **adrian.szablowski.kontakt@gmail.com**
 
-<h3 align="center">💻 Languages and Tools:</h3>
+<h3 align="center">:computer: Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,js,ts,react,php,symfony,mysql,git,supabase" />
@@ -30,5 +29,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-<h3 align="center">🏆 My stats:</h3>
