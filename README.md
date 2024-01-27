@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **adrian.szablowski.kontakt@gmail.com**
 
+<h3 align="center">💻 Languages and Tools:</h3>
 <p align="center">
-<h3>Languages and Tools:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vsc,html,css,js,react" />
   </a>
