@@ -11,7 +11,7 @@
 <h3 align="center">:computer: Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,js,ts,react,nextjs,php,symfony,mysql,git,supabase" />
+    <img src="https://skillicons.dev/icons?i=vscode,tailwind,ts,react,nextjs,php,symfony,mysql,git,supabase" />
   </a>
 </p>
 
