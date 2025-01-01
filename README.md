@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/Hoodie1309/hoodie1309/main/readme-img.png)
 <h1 align="center">Hello 👋, I'm Adrian</h1>
-<h3 align="center">Junior fullstack software developer from Poland</h3>
+<h3 align="center">Junior fullstack software developer from Poland 🇵🇱</h3>
 
 - 🌱 I'm currently learning **Nestjs**
 
