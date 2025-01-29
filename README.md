@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Adrian</h1>
 <h3 align="center">Junior fullstack software developer from Poland</h3>
 
-- 🌱 I'm currently learning **Nestjs**
+- 🌱 I'm currently learning **AWS**
 
 - 👨‍💻 All my projects are available on [https://github.com/adrianszablowski?tab=repositories](https://github.com/adrianszablowski?tab=repositories)
 
