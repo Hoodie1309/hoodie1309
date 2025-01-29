@@ -11,14 +11,14 @@
 <h3 align="center">:computer: Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,tailwind,ts,react,nextjs,php,symfony,mysql,git,supabase" />
+    <img src="https://skillicons.dev/icons?i=vscode,tailwind,ts,react,nextjs,nestjs,postgres,git,supabase" />
   </a>
 </p>
 
 <h3 align="center">:man_student: Want to learn:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs" />
+    <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </p>
 
