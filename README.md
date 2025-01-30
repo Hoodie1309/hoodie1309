@@ -24,7 +24,7 @@
 
 <h3 align="center">:calling: Connect with me:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="www.linkedin.com/in/adrianszablowski">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
